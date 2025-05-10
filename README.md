@@ -14,7 +14,7 @@
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskar-502" alt="sanskar-502" /></a> </p>
+
 
 ### 💬 Ask me about:
 
@@ -80,6 +80,7 @@
 ---
 
 ### 📊 GitHub Stats:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskar-502" alt="sanskar-502" /></a> </p>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskar-502&show_icons=true&locale=en&layout=compact" alt="sanskar-502" />
