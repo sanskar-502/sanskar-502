@@ -29,10 +29,34 @@
 
 Production-grade simulation environment that benchmarks autonomous AI agents on complex DevOps tasks. Integrated LiteLLM for multi-model evaluation (GPT-4o, Claude 3.5, Gemini) with type-safe Pydantic Structured Outputs. Architected a state-machine engine decoupled from FastAPI using Docker for 100% reproducible agentic evaluations.
 
-### 🧠 PolicyMind — Cloud-First RAG API
+---
+
+### 🧠 [PolicyMind — Cloud-First RAG API](https://github.com/sanskar-502/Bajaj-Cloud)
 > FastAPI · Python · Pinecone · Gemini API · LangChain
 
 Production-ready RAG API for document intelligence. Async LLM orchestration pipeline with Pinecone for semantic indexing, Tesseract OCR fallback, and exponential-backoff retry logic maintaining **99% uptime** under LLM rate limits.
+
+---
+
+### 🎯 [AI Career Catalyst](https://github.com/sanskar-502/Carrer_Coach)
+> Next.js 15 · React 19 · FastAPI · LangChain · Pinecone · Gemini 2.5 · PostgreSQL · Prisma · Clerk
+
+Full-stack AI career development platform combining a Next.js 15 frontend with a Python FastAPI backend. Features a **RAG-powered career advisor** (upload resumes/JDs, get contextual advice with source attribution), AI resume builder with ATS scoring and one-click PDF export, AI interview prep with 10 MCQ questions per session, AI cover letter generator, and an industry intelligence dashboard with salary data for 50+ industries. Auto-refreshes weekly via Inngest background cron jobs.
+
+**Architecture highlights:** Direct Gemini SDK calls for simple features + separate LangChain RAG backend for complex chain orchestration. Next.js `/api/ai-advisor` proxy avoids CORS. ConversationalRetrievalChain with 10-message sliding window memory.
+
+---
+
+### 🎙️ [VartaSync — AI Voice Agent](https://github.com/sanskar-502/vartasync-fullStack)
+> FastAPI · LangGraph · Llama 3 (Groq) · Next.js 16 · SQLite · Sarvam AI · Twilio
+
+Real-time multilingual AI voice agent for partner lead conversion, built for Rupeezy's Authorized Person program. Addresses the core problem — **82% of leads lost to delay, language mismatch, and queue overflow**.
+
+**Key features:** Auto-detects Hindi/English/Hinglish from first message and switches mid-conversation · LangGraph 4-node state machine (Conversation → Objection → Handoff → Summarization) · Deterministic lead scoring engine (LLM emits signal tags, Python applies exact math) · 5 core objection handlers with bilingual contextual rebuttals · Real-time God Mode dashboard with animated SVG score gauge · WhatsApp auto-send to warm/hot leads via Twilio · Barge-in support.
+
+**Target:** Lift conversion from 18% → 40%+
+
+---
 
 ### 🏠 [Real Estate Platform](https://github.com/sanskar-502/Real_State_Project)
 > React · Node.js · Express · MongoDB · Socket.IO · Prisma · JWT
