@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🎓 3rd year ECE student at **Bangalore Institute of Technology** (Batch '27)
+- 🎓 4th year ECE student at **Bangalore Institute of Technology** (Batch '27)
 - 🤖 I build **production-grade AI systems** — RAG pipelines, agentic AI, LLM orchestration
 - 💻 Full stack experience — **FastAPI · React · Node.js · Express · MongoDB · PostgreSQL**
 - ⚡ **LeetCode Knight** (rating 1872, top 5.32% globally) · **Codeforces Specialist** (max 1581) · **CodeChef 3-star** (1679)
@@ -127,19 +127,7 @@ Full-stack real estate web application with interactive Leaflet maps, advanced m
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskar-502&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="sanskar-502" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskar-502&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sanskar-502" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://streak-stats.demolab.com?user=sanskar-502&theme=tokyonight" alt="sanskar-502" />
-</p>
 
 ---
 
