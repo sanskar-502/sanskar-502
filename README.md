@@ -130,7 +130,7 @@ Full-stack real estate web application with interactive Leaflet maps, advanced m
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskar-502&show_icons=true&theme=tokyonight&locale=en" alt="sanskar-502" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskar-502&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="sanskar-502" />
 </p>
 
 <p align="left">
@@ -138,7 +138,7 @@ Full-stack real estate web application with interactive Leaflet maps, advanced m
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskar-502&theme=tokyonight" alt="sanskar-502" />
+  <img align="center" src="https://streak-stats.demolab.com?user=sanskar-502&theme=tokyonight" alt="sanskar-502" />
 </p>
 
 ---
